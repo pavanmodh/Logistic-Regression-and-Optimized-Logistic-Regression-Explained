@@ -5,7 +5,7 @@
 It is clear from the figure that variance is very low because gap between training recall and validation recall throughout the curve is small.
 Since validation recall is almost 1, we can say that our model is having very low bias and it is able to predict almost all the malignant variables correctly.
 
-## STandard Logistic Regression Model
+## Standard Logistic Regression Model
 Our model was able to predict all the Benign variables correctly.
 Out of 48 Malignant, our model was able to predict 46 correctly and 2 incorrectly.
 Precision, recall and F1-scores value is 1.
